@@ -5,3 +5,4 @@
 
 # W32
 [tableau] https://dzabaleta.github.io/infovis/w32.html
+[java_d3] https://dzabaleta.github.io/infovis/w32_2.html
