@@ -7,3 +7,6 @@
 [tableau] https://dzabaleta.github.io/infovis/w32.html
 
 [java_d3] https://dzabaleta.github.io/infovis/w32_2.html
+
+# Google Maps
+[tableau] https://dzabaleta.github.io/infovis/google_maps.html
