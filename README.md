@@ -12,3 +12,4 @@
 [tableau] https://dzabaleta.github.io/infovis/google_maps.html
 
 # W33 - Scotland - The state of the Digital Nation
+[flourish] https://dzabaleta.github.io/infovis/w33.html
