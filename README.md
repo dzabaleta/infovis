@@ -1,12 +1,14 @@
 # infovis
 
-# W31
+# W31 - UK visits
 [tableau] https://dzabaleta.github.io/infovis/w31.html
 
-# W32
+# W32 - Benefits of Remote Work
 [tableau] https://dzabaleta.github.io/infovis/w32.html
 
 [java_d3] https://dzabaleta.github.io/infovis/w32_2.html
 
 # Google Maps
 [tableau] https://dzabaleta.github.io/infovis/google_maps.html
+
+# W33 - Scotland - The state of the Digital Nation
