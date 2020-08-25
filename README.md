@@ -15,3 +15,6 @@
 [flourish] https://dzabaleta.github.io/infovis/w33.html
 
 [tableau] https://dzabaleta.github.io/infovis/w33_2.html
+
+# Covid
+[observable] https://dzabaleta.github.io/infovis/covid19.html
