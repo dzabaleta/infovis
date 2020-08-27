@@ -20,4 +20,4 @@
 [observable] https://dzabaleta.github.io/infovis/covid19.html
 
 # TP Datos Personales
-[venngage, flourish, tableau] https://dzabaleta.github.io/infovis/keto.html
+[venngage, flourish, tableau] https://dzabaleta.github.io/infovis/TPDP.html
